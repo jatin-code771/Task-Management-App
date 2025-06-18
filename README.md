@@ -33,5 +33,3 @@ This project demonstrates practical use of core web development concepts such as
 - **Fully Client-Side**  
   No backend or database required. Runs entirely in the browser.
 
-## Project Structure
-
